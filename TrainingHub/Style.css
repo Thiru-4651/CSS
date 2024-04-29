@@ -1,0 +1,137 @@
+@media only screen and (max-width: 750px)
+{
+    .page{display: block;}
+    .welcome{display: block; float: right;}
+    .login{display: block; float: right;}
+}
+body
+{
+    background-color: #f6f6f8;
+}
+.content
+{
+    height: 97vh;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: linear-gradient(to right,#e4e9f4 0%,#5B7596 50%);
+}
+.welcome
+{
+    background-color: #fff;
+    text-align: center;
+    line-height: 0.4;
+    height: 40%;
+}
+.learning
+{
+    color: #999;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 1rem;
+}
+.quotes
+{
+    color: #767569;
+    font-size: 13px;
+    font-style: italic;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0.5rem 1rem;
+    line-height: 10px;
+}
+.author
+{
+    color: #767569;
+    font-size: 13px;
+    
+    line-height: 1.5;
+    text-align: center;
+    margin: 0.5rem 1rem;
+    line-height: 10px;
+}
+.login{
+    background-color: #17355e;
+    min-width: 20%;
+}
+.form{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.mailbox, .passwordbox{
+    background-color: #17355e;
+    padding: 7px;
+    border: 2px solid #6a6d73;
+    width: 13rem;
+    border-radius: 5px;
+}
+.maillb1,.passlbl
+{
+    color: #bababa;
+    font-style: normal;
+    margin-bottom: 30px;
+}
+.sign-in
+{
+    color: #bababa;
+    background-color: #17355e;
+    width: 13rem;
+    height: 5vh;
+    border: 2px solid #6a6d73;
+    border-radius: 5px;
+
+}
+.sign-in:hover
+{
+    background-color: #5B7596;
+    
+}
+.forget
+{
+    color: #bababa;
+    text-decoration: none;
+}
+.heading1
+{
+    color: #2b347b;
+    font-family: sans-serif;
+    font-size: 1.68rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 2.5rem 2rem;
+    line-height: 1rem;
+}
+.heading2
+{
+    color: #2b347b;
+    font-family: sans-serif;
+    font-size: 1.45rem;
+    font-weight: 600;
+    text-align: center;
+}
+.sign-in-with
+{
+    color: #fff;
+    background-color: #17355e;
+    width: 13rem;
+    height: 5vh;
+    border: 2px solid #b3b9c3;
+    border-radius: 5px ;
+
+}
+.image
+{
+    height: 25px;
+    padding:0px;
+}
+.imagetext
+{
+    padding-left: 2px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,50 @@
+body {
+    background-color: aquamarine;
+    
+}
+#none
+{
+    text-decoration: none;
+}
+#under
+{
+    text-decoration: underline;
+}
+#over
+{
+    text-decoration: overline;
+}
+#through
+{
+    text-decoration: line-through;
+}
+#blink
+{
+    text-decoration: blink;
+
+}
+.merge
+{
+    text-decoration: overline underline;
+}
+h2.merge
+{
+    text-decoration: line-through;
+    
+}
+a:visited
+{
+    color: rgb(23, 69, 85);
+}
+a:hover
+{
+    color: chocolate;
+}
+a:active
+{
+    color: tomato;
+}
+/* p
+{
+    text-shadow: 2px
+} */
