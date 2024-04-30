@@ -1,0 +1,147 @@
+.firstline
+{
+    color: white;
+}
+.red
+{
+    background-color: #F44336;
+    border-color: #F44336;
+    color: white;
+}
+.blue
+{
+    background-color: #0D8BF2;
+    border-color: #0D8BF2;
+    color: white;
+}
+.green
+{
+    background-color: #4CAF50;
+    color: white;
+    border-color: #4CAF50;
+}
+.yellow
+{
+    color: white;
+    background-color: #FF9800;
+    border-color: #FF9800;
+}
+.darkgreen
+{
+    color: white;
+    background-color: #009688;
+    border-color: #009688;
+}
+.black
+{
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+.grey
+{
+    color: white;
+    background-color: #B3B3B3;
+    border-color: #B3B3B3;
+}
+.graybackground
+{
+    background-color: #9E9E9E;
+    border-radius: 3px;
+    border-color: #9E9E9E;
+    border-width: 1px;
+}
+.blueborder
+{
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: #0D8BF2;
+}
+.redborder
+{
+    border-radius: 3px;
+    border-color: #F44336;
+    border-width: 1px;
+    color: #F44336;
+}
+.greenborder
+{
+    border-width: 1px;
+    border-radius: 10%;
+    border-color: #4CAF50;
+}
+.shadow
+{
+    border-width: 1px;
+    text-shadow: #4CAF50;
+    font-size: large;
+    background-color: #F44336;
+    border-color: #F44336;
+    color: white;
+}
+.bigblack
+{
+    border-width: 1px;
+    background-color: black;
+    color: white;
+    padding: 8px 15px;
+    /* height: 30px; */
+}
+.button1
+{
+    border-radius: 100%;
+    padding: 8px 12px;
+    color: white;
+    font-size: 25px;
+    background-color: black;
+    border-color: black;
+    border-width: 1px;
+}
+.button2
+{
+    border-radius: 100%;
+    padding: 8px 12px;
+    color: white;
+    font-size: 25px;
+    background-color: #009688;
+    border-color: #009688;
+    border-width: 1px;
+}
+.button3
+{
+    border-radius: 100%;
+    padding: 8px 12px;
+    color: white;
+    font-size: 25px;
+    background-color: #616161;
+    border-color: #616161;
+    border-width: 1px;
+}
+.fifthline
+{
+    display: flex;
+}
+.last1
+{
+    color: white;
+    background-color: black;
+    border-color: black;
+    border-width: 1px;
+    padding: 8px 12px;
+}
+.last2
+{
+    color: white;
+    background-color: #009688;
+    border-color: #009688;
+    padding: 8px 12px;
+    border-width: 1px;
+}
+.last3
+{
+    color: white;
+    background-color: #616161;
+    border-color: #616161;
+    padding: 8px 12px;
+    border-width: 1px;
+}

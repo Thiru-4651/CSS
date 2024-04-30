@@ -1,0 +1,39 @@
+div.background 
+{
+    background-color: black;
+    display: flex;
+    color: white;
+}
+.image
+{
+    padding: 5px;
+    margin-left: 20px;
+}
+.products 
+{
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+    border-color: black;
+}
+.solution
+{
+    background-color: black;
+    color: white;
+    padding-left: 40px;
+    display: flex;
+    border-color: black;
+}
+/* .solution:visited
+{
+    background-color: black;
+} */
+.freetrail
+{
+    color: white;
+    background-color: #0073DC;
+    border-radius: 10;
+    padding: 5 px;
+    margin: 10px 40px ;
+    border-radius: 5px;
+}

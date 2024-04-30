@@ -1,0 +1,44 @@
+.outline
+{
+    margin: 20px;
+    position: relative;
+    border: 1px solid gray;
+}
+.text
+{
+    margin-right: 130px;
+}
+.image1
+{
+    margin-right: 50px;
+    height: 100px;
+    border-radius: 5px;
+}
+.image2
+{
+    height: 100px;
+    /* padding-right: 30px; */
+    margin-right: 50px;
+    border-radius: 80%;
+}
+.image3
+{
+    height: 100px;
+    margin-right: 50px;
+    border: 7px double rgb(223, 219, 219);
+    
+    /* border-style: double; */
+}
+.image4
+{
+    height: 100px;
+    /* padding-right: 10px; */
+}
+.nature
+{
+    position: absolute;
+    margin-left: 38%;
+    /* margin-top:30% ; */
+    bottom: 80%;
+    color: white;
+}
